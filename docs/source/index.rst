@@ -1,6 +1,6 @@
-*********************************
-VOMASYS-meerecompany User Manual
-*********************************
+******************************
+AICAMSYS-MedSpa-JS User Manual
+******************************
 
 .. contents:: Table of Contents
 
