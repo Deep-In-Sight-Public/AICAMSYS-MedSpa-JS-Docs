@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'VOMASYS-meerecompany'
+project = 'AICAMSYS-MedSpa-JS'
 copyright = '2024, Jinyoung Park'
 author = 'Jinyoung Park'
 
